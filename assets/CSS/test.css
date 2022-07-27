@@ -1,0 +1,43 @@
+* {
+    font-family: monospace;
+ }
+
+ div {
+   padding: 90px;
+   height: 350px;
+}
+
+header {
+   line-height: 100px;
+}
+
+h1 {
+   background-color: rgb(126, 179, 224);
+   text-align: center;
+   padding-bottom: 0;
+
+}
+
+.l {
+   float: left;
+   width: 50%;
+   background-color:rgb(104, 205, 118);
+}
+
+.r {
+   float: right;
+   width: 50%;
+   background-color: rgb(166, 134, 179);
+}
+
+.box {
+   width: 250px;
+   position: left;
+}
+
+footer {
+   background-color: black;
+   color: azure;
+   text-align: center;
+   line-height: 100px;
+}
